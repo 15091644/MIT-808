@@ -1,17 +1,1 @@
-*.parquet
-*.sav
-*.pkl
-*.xlsx
-*.csv
-*.ipynb_checkpoints
-*.png
-*.jpeg
-*.wav
-*.amr
 
-__pycache__/
-documents/
-initial_data_exploration/
-modeling_example/
-modeling_experiments/
-profit_calculation/
