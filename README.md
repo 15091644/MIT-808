@@ -5,10 +5,10 @@ Setting up:
 
 1. After cloning the repository open anaconda prompt and naviagte to the local repo on your desktop
 2. Create a virtual environment using conda using the following steps:
-2.1. conda create -n MIT808 
-2.2. Then once created: conda activate MIT808. You working with a separate controllable library environment in python.
-2.3. conda install --yes --file requirements.txt to install the required dependencies
-2.4 Separately install pytorch on conda using the following command depending on the GPU you have:
+3. conda create -n MIT808 
+4. Then once created: conda activate MIT808. You working with a separate controllable library environment in python.
+5. conda install --yes --file requirements.txt to install the required dependencies
+6 Separately install pytorch on conda using the following command depending on the GPU you have:
 
 This is for windows:
 
