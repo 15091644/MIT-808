@@ -1,4 +1,4 @@
-# MIT-808
+# MIT-808 - SDG Goals
 This repository handles the MIT 808 data science project.
 
 Setting up:
