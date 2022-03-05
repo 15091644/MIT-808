@@ -8,6 +8,10 @@ Here the South African SDG Hub has created a metadatabase that contains paper ab
 
 The website of the South African SDG Hub can be found here: https://sasdghub.up.ac.za
 
+## TODO:
+
+1. Set up a compatible requirements.txt file
+
 ## Setting up:
 
 1. After cloning the repository open anaconda prompt and navigate to the local repo on your desktop
